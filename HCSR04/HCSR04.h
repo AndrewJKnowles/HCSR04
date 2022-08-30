@@ -1,3 +1,15 @@
+/*  HCSR04 Library
+*   ==============
+*   Provided as is without any gaurentees.
+*  
+*   Authored by:            Andrew knowles       
+*   Date:                   08/2022
+*   Collaberators:          
+*   Version:                1.0
+*   Revision Date:          
+*   MBED Studio Version:    1.4.4
+*   MBED OS Version:        6.14.0  */
+
 #ifndef HCSR04_h
 #define HCSR04_h
 
